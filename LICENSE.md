@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/60ff83ba-b43f-422b-9172-f7e7c944bd0c" /># 🐰 Bunni Executor - The Best UNDETECTED Roblox Executor
+# 🐰 Bunni Executor - The Best UNDETECTED Roblox Executor
 
 <div align="center">
 
